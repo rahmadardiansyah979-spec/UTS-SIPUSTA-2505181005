@@ -1,0 +1,2 @@
+model.BukuCetak
+model.Terarsip
